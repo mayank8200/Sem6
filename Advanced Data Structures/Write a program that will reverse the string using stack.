@@ -39,7 +39,7 @@ void main()
 		push(a[i]);
 	}
 	
-	printf("%s\n",st);
+	//printf("%s\n",st);
 	for(int i=0;i<strlen(a);i++)
 	{
 		char d=pop(st);
