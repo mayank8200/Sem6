@@ -1,3 +1,5 @@
+//Write a program that will reverse the string using stack
+
 #include<stdio.h>
 #include<string.h>
 struct node
